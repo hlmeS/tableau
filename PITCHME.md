@@ -1,5 +1,7 @@
 ## Visual Analytics with Tableau
-##### An introductory workshop using the global superstore dataset.
+#####
+##### Introductory workshop using the
+##### Global Superstore 2016 dataset.
 
 ---
 
