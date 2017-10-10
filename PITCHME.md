@@ -1,5 +1,5 @@
 ## Visual Analytics with Tableau
-#####
+![Logo](assets/tableau.png)
 ##### Introductory workshop using the
 ##### Global Superstore 2016 dataset.
 
