@@ -1,4 +1,4 @@
-#theme : white
+theme : white
 theme-override : assets/css/PITCHME.css
 background : assets/bg.jpg
 background-size : cover
