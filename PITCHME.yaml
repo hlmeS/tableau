@@ -1,5 +1,6 @@
 mathjax : TeX-AMS_HTML-full
 charts : true
+theme: sky
 background : assets/bg.jpg
 background-size: cover:
 logo : assets/shidler.png
