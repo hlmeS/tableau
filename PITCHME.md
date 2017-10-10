@@ -30,7 +30,7 @@ Data transformation processes allow us to turn data into actionable knowledge.
 
 +++
 
-#### BA can be categorized based on the nature of the analytics approach. 
+#### BA can be categorized based on the nature of the analytics approach.
 
 ![Types of BI/BA](assets/BA_types.png)
 
@@ -125,8 +125,13 @@ consolidated and arranged on a **single screen** so the information can be **mon
 
 +++
 
+#### Dashboard design Principles
+* Tableau whitepaper: https://goo.gl/kvcdwz
+
+
 #### Video:
 * Tableau use case: https://goo.gl/XAG76s
 
+
 #### Dataset:
-* Global SuperStore. Tableau Community: https://goo.gl/1v3MkF
+* Global SuperStore by Tableau Community: https://goo.gl/1v3MkF
