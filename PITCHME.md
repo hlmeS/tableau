@@ -30,12 +30,13 @@ Data transformation processes allow us to turn data into actionable knowledge.
 
 +++
 
-Various aspects of BA can be categorized descriptive, diagnostic, predictive, and diagnostic analytics. Visual analytics draws from each of the four categories.
+#### BA can be categorized based on the nature of the analytics approach. 
 
 ![Types of BI/BA](assets/BA_types.png)
 
 +++
-Applied processes and methods vary between different analytics scopes. Your objectives will determine which approach best fits your needs.
+
+#### Your objectives will determine the best analytics approach.
 ![Scope of BI/BA](assets/BA_scope_nobg.png)
 
 ---
@@ -43,6 +44,8 @@ Applied processes and methods vary between different analytics scopes. Your obje
 
 +++
 ### Visual Analytics is ...
+
+
 
 “... an iterative and interactive
 approach to analytical reasoning.”
@@ -55,13 +58,54 @@ at a single glance.”
 +++
 ### Approaches to Visual Analytics
 
+
+
 1. Exploring data by **creating visualization first** and then interpreting them (_e.g. sales seasonalities_)
 
 
 2. **Asking questions first**, and then finding the right visualization to answer the question (_e.g. when and where are my sales the highest?_ )
 
++++
 
-####
+### Outcomes ...
+
+
+... are typically presented in the form of:
+
+* Dashboards
+* Stories
+* Reports
+* Combination of the above
+
+
+---
+
+## Dashboards
+
++++
+
+### Dashboards are ...
+
+
+
+" ... visual display of the most **important information** needed to achieve** one or more objectives**;
+consolidated and arranged on a **single screen** so the information can be **monitored at a glance**.”
+
++++
+
+### Design Principles
+
+* Choose metrics based on why they matter
+* Keep it visual
+* Make it interactive
+* Keep it current or don’t bother
+* Make it simple to access and use
+
++++
+
+### "Simplicity is the ultimate sophistication”
+#### Da Vinci
+
 
 ---
 
