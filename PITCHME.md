@@ -30,11 +30,38 @@ Data transformation processes allow us to turn data into actionable knowledge.
 
 +++
 
+Various aspects of BA can be categorized descriptive, diagnostic, predictive, and diagnostic analytics. Visual analytics draws from each of the four categories.
+
 ![Types of BI/BA](assets/BA_types.png)
 
 +++
-
+Applied processes and methods vary between different analytics scopes. Your objectives will determine which approach best fits your needs.
 ![Scope of BI/BA](assets/BA_scope_nobg.png)
+
+---
+## Visual Analytics
+
++++
+### Visual Analytics is ...
+
+“... an iterative and interactive
+approach to analytical reasoning.”
+
+“... used to create interactive,
+easy-to-use dashboards,
+that show most import information
+at a single glance.”
+
++++
+### Approaches to Visual Analytics
+
+1. Exploring data by **creating visualization first** and then interpreting them (_e.g. sales seasonalities_)
+
+
+2. **Asking questions first**, and then finding the right visualization to answer the question (_e.g. when and where are my sales the highest?_ )
+
+
+####
 
 ---
 
