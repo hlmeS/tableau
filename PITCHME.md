@@ -5,11 +5,16 @@
 
 ---
 
-## Mass Spring Damper System
-
-The goal is to model a dynamical system and evolve the PID gains to control the system.
-
+## Business Intelligence (BI) / Business Analytics (BA)
 
 +++
 
-## Model
+### Why BI / BA?
+
+![data_to_knowledge](assets/data_to_knowledge.png)
+
++++
+
+### What is BI/BA?
+
+“Business Analytics help managers and staff gain improved insight about their business operations and make better, fact-based decisions.”
