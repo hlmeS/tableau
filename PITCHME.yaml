@@ -6,3 +6,4 @@ logo : assets/shidler.png
 highlight : atom-one-dark
 mathjax : TeX-AMS_HTML-full
 charts : true
+slide-number: true
