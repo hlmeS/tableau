@@ -3,6 +3,6 @@
   box-shadow: none;
 }
 
-.reveal p {
+.reveal p, li {
   font-size: 34px;
 }
