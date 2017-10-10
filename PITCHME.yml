@@ -2,3 +2,4 @@ mathjax : TeX-AMS_HTML-full
 charts : true
 background : assets/bg.jpg
 background-size: cover:
+logo : assets/shidler.png
