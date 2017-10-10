@@ -7,6 +7,10 @@
   font-size: 36px;
 }
 
-.reveal li, .reveal ol, .reveal ul {
+.reveal ul {
+  font-size: 34px;
+}
+
+.reveal ol {
   font-size: 34px;
 }
