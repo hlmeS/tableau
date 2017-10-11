@@ -105,6 +105,21 @@ consolidated and arranged on a **single screen** so the information can be **mon
 ## Tableau
 
 ![Tableau Video](https://www.youtube.com/embed/lAI5PoBVfQk)
+
++++
+## Case: Global SuperStore
+
+"The executives of the Global SuperStore–a global store specialized in office supplies, furnitures, and technology products–invited the board of directors and regional managers for a meeting next month to discuss the company's recent performances and discuss the company's future direction."
+
+
++++
+## BI Task
+
+You are hired as a business analyst to provide the executives with a executive dashboards and reports that
+
+1. inform on global and regional performance
+2. identify most and least profitable products in the various regions
+
 ---
 
 ## References
