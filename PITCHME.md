@@ -94,7 +94,7 @@ consolidated and arranged on a **single screen** so the information can be **mon
 +++
 
 ### Design Principles
-
+<br><br>
 * Choose metrics based on why they matter
 * Keep it visual
 * Make it interactive
@@ -127,11 +127,11 @@ consolidated and arranged on a **single screen** so the information can be **mon
 
 #### Dashboard design Principles
 * Tableau whitepaper: https://goo.gl/kvcdwz
-
+<br><br>
 
 #### Video:
 * Tableau use case: https://goo.gl/XAG76s
-
+<br><br>
 
 #### Dataset:
-* Global SuperStore by Tableau Community: https://goo.gl/1v3MkF
+* Global SuperStore: https://goo.gl/1v3MkF
