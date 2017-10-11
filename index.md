@@ -27,60 +27,74 @@ You are now being hired as a BA task force to the executives with a executive da
 
 ### Learning Resources
 
-_To be added soon._
+- [10 commonly used visualization types by Sisense](https://goo.gl/gGwoz1)
+- [Tableau online learning resources](https://goo.gl/iyny4o)
+- [Best practices in dashboard design by Tableau](https://goo.gl/QLG7M2)
+
+
+
+_More to be added soon._
 
 ### Calculated Fields
 
-```
-Profit Ratio (%) =
-   SUM([Profit]) / SUM([Sales])
-```
+- Profit ratio expresses the profitability of a product. Of my sales revenue, which percentage turns into profits. We can calculate it on the total sales and profits, or on each order individually. 
 
-```
-Profit Ratio By Order =
-   [Profit] / [Sales]
-```
+  ```
+  Profit Ratio (%) =
+     SUM([Profit]) / SUM([Sales])
+  ```
 
-```
-IF RANK((-1)*(SUM([Profit]))) <= 5
-    THEN "#"+ STR(RANK(ABS(SUM([Profit]))) ) + " " + MIN([City])
-ELSE ""
-END
-```
+  ```
+  Profit Ratio By Order =
+     [Profit] / [Sales]
+  ```
 
-```
-Potential Profit (No Discount for LPC) =
-   IF [Low Performing Countries in AP]
-   THEN [Profit] + [Discount]/100 * [Sales]
-   ELSE [Profit]
-   END
-```
+  ```
+  IF RANK((-1)*(SUM([Profit]))) <= 5
+      THEN "#"+ STR(RANK(ABS(SUM([Profit]))) ) + " " + MIN([City])
+  ELSE ""
+  END
+  ```
 
-```
-Potential Profit (Free Shipping for LPC) =
-   IF [Low Performing Countries in AP]
-   THEN [Profit] + [Discount]/100 * [Sales]
-   ELSE [Profit]
-   END
-```
+We can calculat potential profits for _simulated scenarios_.
 
-```
-Potential Profit (No Discount + Free Shipping for LPC)  =
-   IF [Low Performing Countries in AP]
-   THEN [Profit] + [Shipping Cost] + [Discount]/100 * [Sales]
-   ELSE [Profit]
-   END
-```
+- Profits after removing discounts in the sales.
+  ```
+  Potential Profit (No Discount for LPC) =
+     IF [Low Performing Countries in AP]
+     THEN [Profit] + [Discount]/100 * [Sales]
+     ELSE [Profit]
+     END
+  ```
+- Profits after removing costs of shipping products.
 
-```
-Potential Profit after Price Increase =
-   IF [Low Performing Countries in AP]
-   THEN [Potential Profit (No Discount + Free Shipping for LPC) ] + [Sales] * [Price Increase]
-   ELSE [Profit]
-   END
-```
+  ```
+  Potential Profit (Free Shipping for LPC) =
+     IF [Low Performing Countries in AP]
+     THEN [Profit] + [Shipping Costs]
+     ELSE [Profit]
+     END
+  ```
+- Profits after adding discounts back in and removing shipping costs.
+  ```
+  Potential Profit (No Discount + Free Shipping for LPC)  =
+     IF [Low Performing Countries in AP]
+     THEN [Profit] + [Shipping Cost] + [Discount]/100 * [Sales]
+     ELSE [Profit]
+     END
+  ```
 
-```
-New Profit Ratio (%) =
-   SUM([Potential Profit after Price Increase]) / SUM([Sales])
-```
+- Profits after a price increase. (Price Increase needs to be a defined parameter.)
+  ```
+  Potential Profit after Price Increase =
+     IF [Low Performing Countries in AP]
+     THEN [Potential Profit (No Discount + Free Shipping for LPC) ] + [Sales] * [Price Increase]
+     ELSE [Profit]
+     END
+  ```
+
+- New profits ratios can also be calculated.
+  ```
+  New Profit Ratio (%) =
+     SUM([Potential Profit after Price Increase]) / SUM([Sales])
+  ```
