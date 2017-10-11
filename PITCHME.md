@@ -30,13 +30,12 @@ Data transformation processes allow us to turn data into actionable knowledge.
 
 +++
 
-#### BA can be categorized based on the nature of the analytics approach.
-
+##### BA can be categorized based on the nature of the analytics approach
 ![Types of BI/BA](assets/BA_types.png)
 
 +++
 
-#### Your objectives will determine the best analytics approach.
+##### Your objectives will determine the best analytics approach
 ![Scope of BI/BA](assets/BA_scope_nobg.png)
 
 ---
@@ -44,9 +43,7 @@ Data transformation processes allow us to turn data into actionable knowledge.
 
 +++
 ### Visual Analytics is ...
-
-
-
+<br>
 “... an iterative and interactive
 approach to analytical reasoning.”
 
@@ -58,8 +55,7 @@ at a single glance.”
 +++
 ### Approaches to Visual Analytics
 
-
-
+<br>
 1. Exploring data by **creating visualization first** and then interpreting them (_e.g. sales seasonalities_)
 
 
@@ -68,7 +64,6 @@ at a single glance.”
 +++
 
 ### Outcomes ...
-
 
 ... are typically presented in the form of:
 
@@ -86,15 +81,13 @@ at a single glance.”
 
 ### Dashboards are ...
 
-
-
 " ... visual display of the most **important information** needed to achieve** one or more objectives**;
 consolidated and arranged on a **single screen** so the information can be **monitored at a glance**.”
 
 +++
 
 ### Design Principles
-<br><br>
+
 * Choose metrics based on why they matter
 * Keep it visual
 * Make it interactive
