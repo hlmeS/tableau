@@ -57,8 +57,6 @@ at a single glance.”
 
 <br>
 1. Exploring data by **creating visualization first** and then interpreting them (_e.g. sales seasonalities_)
-
-
 2. **Asking questions first**, and then finding the right visualization to answer the question (_e.g. when and where are my sales the highest?_ )
 
 +++
