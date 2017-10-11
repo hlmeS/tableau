@@ -31,6 +31,7 @@ You are now being hired as a BA task force to the executives with a executive da
 - [Tableau online learning resources](https://goo.gl/iyny4o)
 - [Best practices in dashboard design by Tableau](https://goo.gl/QLG7M2)
 - [Ryan Sleeper's visualization tutorials](https://www.ryansleeper.com)
+- [Interworks Tableau training](https://goo.gl/6KH9ik)
 
 
 
