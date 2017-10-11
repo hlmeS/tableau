@@ -22,7 +22,7 @@ You are now being hired as a BA task force to the executives with a executive da
 
 ### Data Sets
 
-- [Global SuperStore 2016](https://goo.gl/1v3MkF) or (here)
+- [Global SuperStore 2016](https://goo.gl/1v3MkF) or [here on GitHub](https://goo.gl/J7Kd8L)
 - [Tableau Sample Data](https://public.tableau.com/en-us/s/resources)
 
 ### Learning Resources
