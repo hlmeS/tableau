@@ -1,6 +1,6 @@
 ### Table of Contents
 
-- [Introduction]
+- [Introduction](#introduction)
 - [Data Sets](#data-sets)
 - [Learning Resources](#learning-resources)
 - [Calculated Fields](#calculated-fields)
@@ -37,7 +37,7 @@ _More to be added soon._
 
 ### Calculated Fields
 
-- Profit ratio expresses the profitability of a product. Of my sales revenue, which percentage turns into profits. We can calculate it on the total sales and profits, or on each order individually. 
+- Profit ratio expresses the profitability of a product. Of my sales revenue, which percentage turns into profits. We can calculate it on the total sales and profits, or on each order individually.
 
   ```
   Profit Ratio (%) =
