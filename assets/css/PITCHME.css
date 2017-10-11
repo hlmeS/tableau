@@ -8,11 +8,15 @@
 }
 
 .reveal ul {
-  text-align: center;
+  align: center;
   font-size: 34px;
 }
 
 .reveal ol {
-  text-align: center;
+  align: center;
   font-size: 34px;
+}
+
+.reveal li {
+  align: center;
 }
