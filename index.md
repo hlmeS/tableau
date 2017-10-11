@@ -30,6 +30,7 @@ You are now being hired as a BA task force to the executives with a executive da
 - [10 commonly used visualization types by Sisense](https://goo.gl/gGwoz1)
 - [Tableau online learning resources](https://goo.gl/iyny4o)
 - [Best practices in dashboard design by Tableau](https://goo.gl/QLG7M2)
+- [Ryan Sleeper's visualization tutorials](https://www.ryansleeper.com)
 
 
 
