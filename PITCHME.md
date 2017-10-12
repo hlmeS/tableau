@@ -1,7 +1,7 @@
 ## Visual Analytics with Tableau
 ![Logo](assets/tableau.png)
 ##### Introductory workshop using the
-##### Global Superstore 2016 dataset.
+##### Global Superstore (2014) dataset.
 
 ---
 
@@ -140,7 +140,8 @@ You are hired as a business analyst to provide the executives with a executive d
 <br><br>
 
 #### Dataset:
-* Global SuperStore: https://github.com/hlmeS/tableau-intro/tree/master/data
+* **Global SuperStore (2014)**: https://github.com/hlmeS/tableau-intro/tree/master/data
+* Global SuperStore (2016): https://goo.gl/VsJzX2
 
 +++
 
