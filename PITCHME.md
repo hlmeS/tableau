@@ -140,7 +140,7 @@ You are hired as a business analyst to provide the executives with a executive d
 <br><br>
 
 #### Dataset:
-* Global SuperStore: https://goo.gl/1v3MkF or https://github.com/hlmeS/tableau-intro/tree/master/data
+* Global SuperStore: https://github.com/hlmeS/tableau-intro/tree/master/data
 
 +++
 
