@@ -44,13 +44,13 @@ Data transformation processes allow us to turn data into actionable knowledge.
 +++
 ### Visual Analytics is ...
 <br>
-“... an iterative and interactive
-approach to analytical reasoning.”
+"... an iterative and interactive
+approach to analytical reasoning."
 
-“... used to create interactive,
+".. used to create interactive,
 easy-to-use dashboards,
 that show most import information
-at a single glance.”
+at a single glance."
 
 +++
 ### Approaches to Visual Analytics
@@ -79,8 +79,8 @@ at a single glance.”
 
 ### Dashboards are ...
 
-" ... a visual display of the most **important information** needed to achieve** one or more objectives**;
-consolidated and arranged on a **single screen** so the information can be **monitored at a glance**.”
+"... a visual display of the most **important information** needed to achieve** one or more objectives**;
+consolidated and arranged on a **single screen** so the information can be **monitored at a glance**."
 
 +++
 
