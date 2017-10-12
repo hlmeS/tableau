@@ -131,7 +131,7 @@ You are hired as a business analyst to provide the executives with a executive d
 
 +++
 
-#### Dashboard design Principles
+#### Dashboard design rinciples
 * Tableau whitepaper: https://goo.gl/kvcdwz
 <br><br>
 
@@ -140,9 +140,15 @@ You are hired as a business analyst to provide the executives with a executive d
 <br><br>
 
 #### Dataset:
-* Global SuperStore: https://goo.gl/1v3MkF
+* Global SuperStore: https://goo.gl/1v3MkF or https://github.com/hlmeS/tableau-intro/tree/master/data
 
 +++
 
-#### Calculated Fields
+#### Website with calculated fields
 * https://hlmes.github.io/tableau-intro/
+<br><br>
+#### Gitpitch presentation:
+* https://gitpitch.com/hlmes/tableau-intro
+<br><br>
+#### Source code
+* https://github.com/hlmeS/tableau-intro
