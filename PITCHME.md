@@ -121,7 +121,7 @@ You are hired as a business analyst to provide the executives with a executive d
 +++
 ## Sample Story
 
-<iframe src="https://public.tableau.com/views/VisualAnalytics_Intro_Tableau_Demo_V1_0/ProfitabilityAnalysisStory?:embed=y&:display_count=yes&publish=yes" width=100% height=750 ></iframe>
+<iframe src="https://public.tableau.com/views/VisualAnalytics_Intro_Tableau_Demo_V1_0/ProfitabilityAnalysisStory?:embed=y&:display_count=yes&publish=yes" width=100% height=600 ></iframe>
 ---
 
 ## References
