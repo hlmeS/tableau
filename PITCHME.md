@@ -116,8 +116,12 @@ consolidated and arranged on a **single screen** so the information can be **mon
 You are hired as a business analyst to provide the executives with a executive dashboards and reports that
 
 1. inform on global and regional performance
-2. identify most and least profitable products in the various regions
+2. identify most and least profitable products types/categories in the various regions
 
++++
+## Sample Story
+
+<iframe src="https://public.tableau.com/views/VisualAnalytics_Intro_Tableau_Demo_V1_0/ProfitabilityAnalysisStory?:embed=y&:display_count=yes&publish=yes" ></iframe>
 ---
 
 ## References
