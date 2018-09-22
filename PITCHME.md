@@ -1,7 +1,7 @@
 ## Visual Analytics with Tableau
 ![Logo](assets/tableau.png)
-##### Introductory workshop using the
-##### Global Superstore 2014 dataset.
+##### Introduction using the
+##### Global Superstore 2016 dataset.
 
 ---
 
@@ -113,12 +113,13 @@ consolidated and arranged on a **single screen** so the information can be **mon
 +++
 ## BI Task
 
-You are hired as a business analyst to provide the executives with a executive dashboards and reports that
+You are hired as a business analyst to provide the executives with an executive dashboard that
 
-1. inform on global and regional performance
-2. identify most and least profitable products types/categories in the various regions
+1. informs on global and regional performance
+2. identifies most and least profitable products types/categories in the various regions
 
 +++
+
 ## Sample Story
 
 <iframe src="https://public.tableau.com/views/VisualAnalytics_Intro_Tableau_Demo_V1_0/ProfitabilityAnalysisStory?:embed=y&:display_count=yes&publish=yes" width=100% height=600 ></iframe>
